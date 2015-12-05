@@ -1,2 +1,2 @@
-# lintCode
-problems for algorithm and data structure
+# lintcode
+Python solutions to problems on LintCode.
