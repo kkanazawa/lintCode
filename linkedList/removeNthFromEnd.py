@@ -17,10 +17,7 @@ class Solution:
     def removeNthFromEnd(self, head, n):
         # write your code here
         
-        if not head or n == 0:
-            return None
-        
-        # fast and slow pointers
+        # two pointers
         dummy = ListNode(0, head)
         fast = dummy
         slow = dummy
